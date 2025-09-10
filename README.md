@@ -1,2 +1,3 @@
 # test-webhook
 Whatsapp bussines api
+'{ \"messaging_product\": \"whatsapp\", \"to\": \"\", \"type\": \"template\", \"template\": { \"name\": \"hello_world\", \"language\": { \"code\": \"en_US\" } } }'
